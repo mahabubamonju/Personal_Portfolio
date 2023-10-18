@@ -1,0 +1,14 @@
+{
+    "name": "batch-30/portfolio",
+    "description": "a php project for portfolio",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app//"
+        }
+    }
+}
